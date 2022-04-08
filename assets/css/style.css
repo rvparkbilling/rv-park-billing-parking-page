@@ -1044,7 +1044,7 @@ main .main-wrapper.demo-04 {
 }
 
 main .main-wrapper.demo-04 .hero-area {
-  padding: 100px 0 150px;
+  padding: 0 0 150px;
 }
 
 @media (max-width: 767px) {
@@ -1222,7 +1222,7 @@ main .main-wrapper.demo-04 .service-area .service-list-wrapper .service-list {
   }
 }
 
-main .main-wrapper.demo-04 .service-area .service-list-wrapper .service-list ul li a {
+main .main-wrapper.demo-04 .service-area .service-list-wrapper .service-list ul li {
   font-size: 20px;
   line-height: 40px;
   color: rgba(255, 255, 255, 0.7);
